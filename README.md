@@ -1,4 +1,4 @@
-
+<h1>Durante el curso de Taller de Programación II, participé en un proyecto colaborativo que fue eliminado del repositorio original por uno de mis compañeros. Como resultado, me encuentro en la obligación de volver a subirlo para demostrar el trabajo colaborativo realizado en esa materia.</h1>
 <h1 align="center">
   <br>
   <a href=""><img src="./src/public/img/vd1.png" alt="" width="200"></a>
